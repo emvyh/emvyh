@@ -1,5 +1,5 @@
-## Hi there 👋
-My name is Emily Hoang ✨
+## Hi there 
+# My name is Emily Hoang ✨
 I am a senior at Virginia Tech studying Computer Science graduating in Spring 2026!
 Nice to meet you! 
 <!--
