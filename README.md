@@ -1,7 +1,14 @@
-## Hi there 
-# My name is Emily Hoang ✨
+## Hi Hi <3
+### My name is Emily Hoang ✨ 
 I am a senior at Virginia Tech studying Computer Science graduating in Spring 2026!
+
 Nice to meet you! 
+
+I currently build fun applications for myself. 
+
+My most used tech stack is React, Javascript and APIs.
+
+Thanks for stopping by!
 <!--
 **emvyh/emvyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
