@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+My name is Emily Hoang ✨
+I am a senior at Virginia Tech studying Computer Science graduating in Spring 2026!
+Nice to meet you! 
 <!--
 **emvyh/emvyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
