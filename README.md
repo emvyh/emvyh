@@ -8,7 +8,7 @@ I currently build fun applications for myself and friends.
 
 My most used tech stack is React, Javascript and APIs.
 
-Fun fact: i love dancing, makeup and reading books! ask me about my favorite series ^^
+Fun fact: i love dancing, makeup, sewing, snowboarding and reading books! ask me about my favorite series ^^
 Thanks for stopping by!
 <!--
 **emvyh/emvyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
